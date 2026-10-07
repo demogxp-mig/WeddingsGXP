@@ -1,0 +1,6 @@
+{
+  "name": "Aethelgard | Editorial Wedding Planner",
+  "description": "An elegant, modern wedding planner app featuring live countdown, RSVP guest management, interactive budget tracker, timeline checklist, and day-of run of show.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
